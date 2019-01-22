@@ -7,4 +7,5 @@ https://medium.com/agatha-codes/options-objects-customizing-the-django-user-mode
 ## Dealing / Reseting migrations
 https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migrations.html
 
-
+## Translation done right
+http://smallactsmanifesto.org/
