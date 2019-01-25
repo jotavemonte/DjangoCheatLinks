@@ -9,3 +9,6 @@ https://simpleisbetterthancomplex.com/tutorial/2016/07/26/how-to-reset-migration
 
 ## Translation done right
 https://henriquebastos.net/programacao/cuidados-importantes-ao-configurar-i18n-no-django/
+
+## Upload de arquivos
+https://cuducos.me/2016/02/26/upload-de-arquivos-no-django-entendendo-os-modos-de-leitura.html
