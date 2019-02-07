@@ -1,4 +1,4 @@
-# DjangoCheatSheet
+# DjangoCheatLinks
 
 
 ## Auth by email, tel, etc
