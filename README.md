@@ -12,3 +12,9 @@ https://henriquebastos.net/programacao/cuidados-importantes-ao-configurar-i18n-n
 
 ## Upload de arquivos
 https://cuducos.me/2016/02/26/upload-de-arquivos-no-django-entendendo-os-modos-de-leitura.html
+
+## Add Style to Django Fields
+https://github.com/jazzband/django-widget-tweaks
+
+## Deploy on Heroku
+https://github.com/gpzim98/django-heroku
