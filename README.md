@@ -25,3 +25,6 @@ https://fernandofreitasalves.com/tarefas-assincronas-com-django-e-celery/
 
 ## Two way communication w/ client
 https://channels.readthedocs.io/en/latest/
+
+## Way to pass messages to templates
+https://simpleisbetterthancomplex.com/tips/2016/09/06/django-tip-14-messages-framework.html
