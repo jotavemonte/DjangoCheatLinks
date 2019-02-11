@@ -21,3 +21,4 @@ https://github.com/gpzim98/django-heroku
 
 ## Executando tarefas longas paralelamente
 https://medium.com/luizalabs/executando-processos-em-background-com-django-e-celery-5ade867e1bf3
+https://fernandofreitasalves.com/tarefas-assincronas-com-django-e-celery/
