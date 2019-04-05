@@ -28,3 +28,6 @@ https://channels.readthedocs.io/en/latest/
 
 ## Way to pass messages to templates
 https://simpleisbetterthancomplex.com/tips/2016/09/06/django-tip-14-messages-framework.html
+
+## Classy django
+https://ccbv.co.uk/
