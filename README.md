@@ -31,3 +31,6 @@ https://simpleisbetterthancomplex.com/tips/2016/09/06/django-tip-14-messages-fra
 
 ## Classy django
 https://ccbv.co.uk/
+
+## OAuth2 simplified
+https://aaronparecki.com/oauth-2-simplified/
